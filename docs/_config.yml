@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: ""
+name: "Jared S. Murray"
 title: TEMBA Statistics
 email: jared.murray@mccombs.utexas.edu
 description: # this means to ignore newlines until "baseurl:"
