@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: TEMBA Statistics
+title: ""
 ---
 
 # Contact and office hours
