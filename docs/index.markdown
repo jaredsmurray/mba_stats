@@ -18,7 +18,7 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
 
 ### Textbook
 
-[Naked Statistics](https://wwnorton.com/books/naked-statistics/) by Charles Wheelan (acquire it wherever and in whatever format you like, this link is to the publisher)
+[Naked Statistics](https://wwnorton.com/books/naked-statistics/) by Charles Wheelan (acquire it from wherever and in whatever format you like, this link is to the publisher)
 
 ### Lecture notes and other materials
 
@@ -30,6 +30,10 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
   - [Sampling Distribution Webapp](https://istats.shinyapps.io/sampdist_cont/)
 - [Section 3: Simple Linear Regression ](slides/Section3.pdf)
 - [Section 4: Multiple Linear Regression](slides/Section4.pdf)
+
+### Assignments
+
+- [Homework 1](files/HW1_stats.pdf)
 
 ### Datasets
 
