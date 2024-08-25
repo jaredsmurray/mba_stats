@@ -33,7 +33,7 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
 
 ### Assignments
 
-- [Homework 1](files/HW1_stats.pdf)
+- [Homework 1](files/HW1_Stats.pdf)
 
 ### Datasets
 
