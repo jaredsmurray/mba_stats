@@ -34,7 +34,8 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
 
 ### Assignments
 
-- [Homework 1](files/HW1_Stats.pdf)
+- [Homework 1](files/HW1_Stats.pdf) (See Canvas announcement for adjustments!)
+  - Here is a [video about simulation in Excel](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b5ff0f-6a11-4770-a72f-b1da01034b5a). See also this [tutorial](https://support.microsoft.com/en-us/office/introduction-to-monte-carlo-simulation-in-excel-64c0ba99-752a-4fa8-bbd3-4450d8db16f1)
 
 ### Datasets
 
