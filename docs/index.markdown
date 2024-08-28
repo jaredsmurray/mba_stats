@@ -10,7 +10,7 @@ title: ""
 
 Please contact me via Canvas message (this helps me prioritize you in my inbox).
 
-Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
+Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/94020440336)), or by appointment.
 
 # [Syllabus](files/syllabus.pdf)
 
