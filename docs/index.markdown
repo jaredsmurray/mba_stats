@@ -10,7 +10,7 @@ title: ""
 
 Please contact me via Canvas message (this helps me prioritize you in my inbox).
 
-Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
+Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/94020440336)), or by appointment.
 
 # [Syllabus](files/syllabus.pdf)
 
@@ -35,7 +35,8 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
 
 ### Assignments
 
-- [Homework 1](files/HW1_Stats.pdf)
+- [Homework 1](files/HW1_Stats.pdf) (See Canvas announcement for adjustments!)
+  - Here is a [video about simulation in Excel](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b5ff0f-6a11-4770-a72f-b1da01034b5a). See also this [tutorial](https://support.microsoft.com/en-us/office/introduction-to-monte-carlo-simulation-in-excel-64c0ba99-752a-4fa8-bbd3-4450d8db16f1)
 - [Homework 2](files/HW2.pdf)
 
 ### Datasets
