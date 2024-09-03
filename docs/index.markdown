@@ -24,7 +24,7 @@ Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/940204403
 
 - [Section 1: Introduction and Probability Concepts](slides/Section1.pdf)
   - For a more practical application of randomized response (differential privacy), see [here](https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/)
-  - [Regression to the mean](https://www.dropbox.com/scl/fi/tc1elizjisrcxn4pmp7oz/regression_to_the_mean.pdf?rlkey=6wamauvkwfu7lf7a7qm91ddy6&dl=0)
+  - [Regression to the mean](files/regression_to_the_mean.pdf)
 - [Section 1.1: Portfolios](slides/Section1.1.pdf)
   - [SP500/Bond Portfolios](files/sp-bond.xlsx)
   - [F/TSLA Portfolios (with data)](files/F_TSLA.xlsx)
