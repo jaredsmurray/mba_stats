@@ -29,7 +29,7 @@ Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/940204403
   - [SP500/Bond Portfolios](files/sp-bond.xlsx)
   - [F/TSLA Portfolios (with data)](files/F_TSLA.xlsx)
 - [Section 2: Learning from Data. Estimation, Confidence Intervals and Testing](slides/Section2.pdf)
-  - [Sampling Distribution Webapp](https://istats.shinyapps.io/sampdist_cont/)
+  - [Sampling Distribution Webapp](https://istats.shinyapps.io/sampdist_cont/), [Proportion version](https://istats.shinyapps.io/SampDist_Prop/)
 - [Section 3: Simple Linear Regression ](slides/Section3.pdf)
 - [Section 4: Multiple Linear Regression](slides/Section4.pdf)
 
