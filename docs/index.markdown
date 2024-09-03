@@ -27,6 +27,7 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
   - [Regression to the mean](https://www.dropbox.com/scl/fi/tc1elizjisrcxn4pmp7oz/regression_to_the_mean.pdf?rlkey=6wamauvkwfu7lf7a7qm91ddy6&dl=0)
 - [Section 1.1: Portfolios](slides/Section1.1.pdf)
   - [SP500/Bond Portfolios](files/sp-bond.xlsx)
+  - [F/TSLA Portfolios (with data)](files/F_TSLA.xlsx)
 - [Section 2: Learning from Data. Estimation, Confidence Intervals and Testing](slides/Section2.pdf)
   - [Sampling Distribution Webapp](https://istats.shinyapps.io/sampdist_cont/)
 - [Section 3: Simple Linear Regression ](slides/Section3.pdf)
@@ -35,6 +36,7 @@ Office Hours: Wednesday 5-6PM on Zoom, or by appointment.
 ### Assignments
 
 - [Homework 1](files/HW1_Stats.pdf)
+- [Homework 2](files/HW2.pdf)
 
 ### Datasets
 
