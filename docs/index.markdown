@@ -30,7 +30,8 @@ Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/940204403
   - [F/TSLA Portfolios (with data)](files/F_TSLA.xlsx)
 - [Section 2: Learning from Data. Estimation, Confidence Intervals and Testing](slides/Section2.pdf)
   - [Sampling Distribution Webapp](https://istats.shinyapps.io/sampdist_cont/), [Proportion version](https://istats.shinyapps.io/SampDist_Prop/)
-- [Section 3: Simple Linear Regression ](slides/Section3.pdf)
+- [Section 3: Simple Linear Regression ](slides/Section3.pdf) **Reading: Naked Statistics Ch 11**
+  - [Installing the Data Analysis Toolpak in Excel](https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)
 - [Section 4: Multiple Linear Regression](slides/Section4.pdf)
 
 ### Assignments
@@ -38,6 +39,7 @@ Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/940204403
 - [Homework 1](files/HW1_Stats.pdf) (See Canvas announcement for adjustments!)
   - Here is a [video about simulation in Excel](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b5ff0f-6a11-4770-a72f-b1da01034b5a). See also this [tutorial](https://support.microsoft.com/en-us/office/introduction-to-monte-carlo-simulation-in-excel-64c0ba99-752a-4fa8-bbd3-4450d8db16f1)
 - [Homework 2](files/HW2.pdf)
+- [Homework 3](files/HW3.pdf)
 
 ### Datasets
 
