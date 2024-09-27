@@ -40,6 +40,7 @@ Office Hours: Wednesday 5-6PM on Zoom ([here](https://utexas.zoom.us/j/940204403
   - Here is a [video about simulation in Excel](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2b5ff0f-6a11-4770-a72f-b1da01034b5a). See also this [tutorial](https://support.microsoft.com/en-us/office/introduction-to-monte-carlo-simulation-in-excel-64c0ba99-752a-4fa8-bbd3-4450d8db16f1)
 - [Homework 2](files/HW2.pdf)
 - [Homework 3](files/HW3.pdf)
+- [Homework 4](files/HW4.pdf) Note: The problems are numbered incorrectly, but the assignment is complete.
 
 ### Datasets
 
