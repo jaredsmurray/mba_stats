@@ -50,7 +50,7 @@ Section 4: [Price and Sales](data/PricesSales.xls), [Beers](data/nbeer.xls), [Sa
 
 Homework 3: [Shock Absorber Data](data/shock.xls), [Stocks](data/Apple_Intel_Safeway.xls)
 
-Homework 4: [Profits](data/Profits.xls), [Zagat](data/zagat.xls), [Baseball Data](data/RunsPerGame.xls), [Orion](data/Orion.xls), [Beauty](data/BeautyData.csv), [MidCity](data/MidCity.csv)
+Homework 4: [Profits](data/Profits.xls), [Zagat](data/zagat.xls), [Baseball Data](data/RunsPerGame.xls), [Orion](data/Orion.xls), [Beauty](data/BeautyData.csv), [MidCity](data/MidCity.xls)
 
 
 
